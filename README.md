@@ -56,6 +56,79 @@ page 1
   <div style="left: 9px; top: 90px; position: absolute; color: white; font-size: 32px; font-family: Grey Qo; font-weight: 400; word-wrap: break-word">Welcome to Saveetha Engineering College</div>
 </div>
 
+// SPORTS DAY<br/>     CELEBRATION
+color: #F5F5F5;
+ font-size: 40px;
+ font-family: Faster One;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Login
+color: #31CCCC;
+ font-size: 40px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// user name
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 200;
+ word-wrap: break-word
+---
+// passward
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 200;
+ word-wrap: break-word
+---
+// forget passward
+color: white;
+ font-size: 15px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// SUBMIT
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Come and<br/>
+color: white;
+ font-size: 20px;
+ font-family: Jacques Francois Shadow;
+ font-weight: 400;
+ word-wrap: break-word
+---
+//         join with us
+color: white;
+ font-size: 20px;
+ font-family: Jacques Francois Shadow;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Have fun
+color: white;
+ font-size: 20px;
+ font-family: Jacques Francois Shadow;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Welcome to Saveetha Engineering College
+color: white;
+ font-size: 32px;
+ font-family: Grey Qo;
+ font-weight: 400;
+ word-wrap: break-word
+
 page 2
 
 <div style="width: 430px; height: 932px; position: relative; background: #DE5656">
@@ -74,6 +147,76 @@ page 2
   <div style="left: 191px; top: 674px; position: absolute; color: black; font-size: 24px; font-family: Jolly Lodger; font-weight: 400; word-wrap: break-word">Saveetha Ground</div>
   <div style="width: 280px; height: 0px; left: 50px; top: 174px; position: absolute; border: 3px white dotted"></div>
 </div>
+
+// Celebration details :
+color: white;
+ font-size: 32px;
+ font-family: Knewave;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// “Event of the day”
+color: white;
+ font-size: 48px;
+ font-family: Jim Nightshade;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Football games<br/>Basketball games<br/>Track and Field<br/>cricket<br/>Tennis<br/>Hokey
+color: white;
+ font-size: 32px;
+ font-family: Jolly Lodger;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy  drinks ,snacks and <br/>lunch will be provided by our college
+color: white;
+ font-size: 20px;
+ font-family: Irish Grover;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 8am - 5pm
+color: black;
+ font-size: 24px;
+ font-family: Irish Grover;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Time:
+color: black;
+ font-size: 24px;
+ font-family: Irish Grover;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 11-01-2023
+color: black;
+ font-size: 24px;
+ font-family: Irish Grover;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Date:
+color: black;
+ font-size: 24px;
+ font-family: Irish Grover;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Venue :
+color: black;
+ font-size: 24px;
+ font-family: Jolly Lodger;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Saveetha Ground
+color: black;
+ font-size: 24px;
+ font-family: Jolly Lodger;
+ font-weight: 400;
+ word-wrap: break-word
 
 page 3
 
@@ -106,6 +249,91 @@ page 3
   <div style="left: 102px; top: 871px; position: absolute; color: white; font-size: 15px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">  Thanks For Your Joining........</div>
   <div style="width: 170px; height: 0px; left: 112px; top: 906px; position: absolute; border: 2px white dotted"></div>
 </div>
+
+// Registration
+color: white;
+ font-size: 32px;
+ font-family: Knewave;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Fill the below details
+color: white;
+ font-size: 36px;
+ font-family: Jacques Francois Shadow;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Year:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Payment:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Department:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// First Name
+color: black;
+ font-size: 16px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// game:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Mobile Number:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Last Name:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Register
+color: black;
+ font-size: 24px;
+ font-family: Joti One;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Register no:
+color: black;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+---
+//   Thanks For Your Joining........
+color: white;
+ font-size: 15px;
+ font-family: JejuHallasan;
+ font-weight: 400;
+ word-wrap: break-word
+
 ```
 
 ## OUTPUT:
@@ -113,3 +341,4 @@ page 3
 
 ## Result:
 
+The program to design, develop and deploy a web application for event registration is completed successfully.
