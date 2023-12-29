@@ -1,4 +1,4 @@
-# Event Registration Web Application
+#EX09 Event Registration Web Application
 ## DATE: 28.12.23
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -6,29 +6,28 @@ To design, develop and deploy a web application for event registration.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+Create a new frame
 
 ### Step 2:
-
+select any one preset size of your choice
 
 ### Step 3:
-
+select the shape you need
 
 ### Step 4:
-
+import images as needed
 
 ### Step 5:
-
+create pages based on your need and link them
 ### Step 6:
-
-Validate the HTML and CSS code.
+validate the HTML  and CSS code
 
 ### Step 6:
 
 Publish the website in the given URL.
 
 ## DESIGN:
-
+Figma
 ## PROGRAM :
 ```
 page 1
